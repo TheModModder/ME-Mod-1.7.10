@@ -57,6 +57,8 @@ Lclc98
 
 CoolAlias
 
+TheModModder (A.K.A. Snowy)
+
 The code for Magnet was borrowed from electrodynamics
 
 The code for Heat was written by MetroidMan347
